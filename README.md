@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hello There! I'm Luiz Fellipe :v:
+### :page_facing_up: < About me/> 
+> * :man_student: Graduating in Computer Science [3][8] [@PUC-MG](https://www.pucpcaldas.br/) 
+> * :calendar: 18yr old
+> * :brazil: Poços de Caldas -MG
 
-<!--
-**LuizFGarcia/LuizFGarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### :books:  Languages & Tools
+ >* C
+ >* Javascript
+ > * MARS MIPS
+ >* SQL
+ > * Node.js
+ > * Vue.js
+ >* Code::Blocks
+ > * Visual Studio Code
+ > * Sublime Text
+ 
+ ### :book: Learning 
+ >* Kotlin
+ ---
