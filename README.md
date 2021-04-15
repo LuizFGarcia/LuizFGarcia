@@ -13,7 +13,6 @@
  > * Vue.js
  >* Code::Blocks
  > * Visual Studio Code
- > * Sublime Text
  
  ### :book: Learning 
  >* Kotlin
